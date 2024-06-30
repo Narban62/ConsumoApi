@@ -1,2 +1,2 @@
 # ConsumoApi
-Consumo de Api de la Nasa, que gestiona, multiples fotos de marte
+Consumo de API de la NASA, que gestiona múltiples fotos de Marte, permitiendo la recuperación y visualización de imágenes capturadas por los rovers en la superficie marciana. Esta aplicación interactúa con la API pública de la NASA para solicitar datos específicos basados en parámetros como la fecha y el nombre de la cámara, mostrando los resultados en una interfaz gráfica amigable para el usuario, donde las imágenes se pueden filtrar, seleccionar y visualizar con facilidad.
